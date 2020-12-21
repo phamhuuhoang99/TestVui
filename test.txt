@@ -1,6 +1,2 @@
 Pham Hữu Hoàng
-<<<<<<< HEAD
-Nguyen Thi Hoa
-=======
-Pham Hong Nhung
->>>>>>> 7edb33a8431c0ff8a84a1d8b2df34a44a9b0fc5a
+Nguyen Hoa
